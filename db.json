@@ -1,0 +1,84 @@
+{
+"product" :
+[{
+  "id": 1,
+  "name": "Common raccoon",
+  "category": "Maroon"
+}, {
+  "id": 2,
+  "name": "Western patch-nosed snake",
+  "category": "Violet"
+}, {
+  "id": 3,
+  "name": "Great horned owl",
+  "category": "Pink"
+}, {
+  "id": 4,
+  "name": "Lion, asian",
+  "category": "Crimson"
+}, {
+  "id": 5,
+  "name": "Ovenbird",
+  "category": "Mauv"
+}, {
+  "id": 6,
+  "name": "American bighorn sheep",
+  "category": "Crimson"
+}, {
+  "id": 7,
+  "name": "Great skua",
+  "category": "Violet"
+}, {
+  "id": 8,
+  "name": "Fox, blue",
+  "category": "Khaki"
+}, {
+  "id": 9,
+  "name": "Ovenbird",
+  "category": "Turquoise"
+}, {
+  "id": 10,
+  "name": "Ringtail cat",
+  "category": "Orange"
+}, {
+  "id": 11,
+  "name": "Peccary, collared",
+  "category": "Mauv"
+}, {
+  "id": 12,
+  "name": "Cheetah",
+  "category": "Goldenrod"
+}, {
+  "id": 13,
+  "name": "Lizard, desert spiny",
+  "category": "Blue"
+}, {
+  "id": 14,
+  "name": "Cape raven",
+  "category": "Khaki"
+}, {
+  "id": 15,
+  "name": "Deer, savannah",
+  "category": "Blue"
+}, {
+  "id": 16,
+  "name": "Squirrel, indian giant",
+  "category": "Red"
+}, {
+  "id": 17,
+  "name": "Penguin, fairy",
+  "category": "Violet"
+}, {
+  "id": 18,
+  "name": "Deer, barasingha",
+  "category": "Indigo"
+}, {
+  "id": 19,
+  "name": "Vervet monkey",
+  "category": "Orange"
+}, {
+  "id": 20,
+  "name": "Crane, black-crowned",
+  "category": "Teal"
+}]
+}
